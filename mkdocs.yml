@@ -114,10 +114,10 @@ extra_javascript:
 nav:
   - Home: home.md
   - Articles: 
-    - Les origines de la démocracies : Articles/1-Les-origines-de-la-democracie.md
-    - La souveraineté du peuple: Articles/2-La-souverainete-du-peuple.md
-    - La démocracie et les elections: Articles/3-La-democracie-et-les-elections.md
-    - La laicité: Articles/4-La-laicite.md
+    - Les origines de la démocracies : Articles/Les-origines-de-la-democracie.md
+    - La souveraineté du peuple: Articles/La-souverainete-du-peuple.md
+    - La démocracie et les elections: Articles/La-democracie-et-les-elections.md
+    - La laicité: Articles/La-laicite.md
     - La transformation des régimes politiques: Articles/La-transformation-des-regimes-politiques.md
     - La protections des démocracies: Articles/La-protections-des-democracies.md
     - La construction européenne: Articles/La-construction-europeenne.md
