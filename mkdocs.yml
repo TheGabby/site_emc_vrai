@@ -114,32 +114,42 @@ extra_javascript:
 nav:
   - A propos: index.md
   - Articles: 
-    - Les origines de la démocracies : Articles/1-Les-origines-de-la-démocracies.md
-    - La souveraineté du peuple: Articles/2-La-souveraineté-du-peuple.md
-    - Récursivité: langages-et-programmation/2-recursivite.md
-    - Modularité: langages-et-programmation/3-modularite.md
-    - Paradigmes de programmation: langages-et-programmation/4-paradigmes-de-programmation.md
-    - Mise au point des programmes et gestion des bugs: langages-et-programmation/5-mise-au-point-gestion-bugs.md
-  - Lexique: 
-    - bases-de-donnees/index.md
-    - Modélisation conceptuelle: bases-de-donnees/1-modelisation-conceptuelle.md
-    - Conception logique - le modèle relationnel: bases-de-donnees/2-conception-logique-modele-relationnel.md
-    - Conception physique - SGBD relationnel: bases-de-donnees/3-conception-physique-sgbd-relationnel.md
-    - Langage SQL: bases-de-donnees/4-langage-sql.md
-  # - Structures de données:
-  # - Structures de données, interface et implémentation
-  #  - Vocabulaire de la programmation objet
- #  - Listes, piles, files 
- #  - Arbres 
- #  - Graphes
-  # Biographies:
- #  -Composants intégrés d’un système sur puce.
- # -Gestion des processus et des ressources par un système d'exploitation
- # -Protocoles de routage
- # -Sécurisation des communications
- # Algorithmique:
- #Algorithmes sur les arbres binaires et sur les arbres binaires de recherche
- #Algorithmes sur les graphes
- #Méthode « diviser pour régner »
- #Programmation dynamique
- #Recherche textuelle
+    - Les origines de la démocracies : Articles/1-Les-origines-de-la-democracie.md
+    - La souveraineté du peuple: Articles/2-La-souverainete-du-peuple.md
+    - La démocracie et les elections: Articles/3-La-democracie-et-les-elections.md
+    - La laicité: Articles/4-La-laicite.md
+    - La transformation des régimes politiques: Articles/La-transformation-des-regimes-politiques.md
+    - La protections des démocracies: Articles/La-protections-des-democracies.md
+    - La construction européenne: Articles/La-construction-europeenne.md
+  - Lexique :
+  - Biographies:
+   - Droits civiques: Biographies/Droits-civiques.md
+   - Intelectuels contemporains: Biographies/Intelectuels-contemporains.md
+   - Personnalités politiques française: Biographies/Personnalites-politiques-française.md
+   - Prix nobel de la paix: Biographies/Prix-nobel-de-la-paix.md
+   - Ecrivains engagés: Biographies/Ecrivains-engages.md
+   - Auteurs classiques: Biographies/Auteurs-classiques.md
+   - Art et démocracie: Biographies/Art-et-democracie.md
+   - Auteurs antiques: Biographies/Auteurs-antiques.md
+   - Education et Democracie: Biographies/Education-et-democracie.md
+   - Personalités française contemporraines: Biographies/Personalites-française-contemporraines.md
+   - Démocratie et enjeux environnementaux: Biographies/Democratie-et-enjeux-environnementaux.md
+  - Veille Radio :
+   - Veille Radio Anglophone: Veille-Radio/Veille-Radio-Anglophone.md
+   - Veille Radio Francophone: Veille-Radio/Veille-Radio-Francophone.md
+  - Arts et Engagements Politiques:
+   - Arts: Arts-et-Engagements-Politiques/Arts.md
+   - Litterature: Arts-et-Engagements-Politiques/Litterature.md
+   - Performance: Arts-et-Engagements-Politiques/Performance.md
+  - Veille Presse:
+   - Veille Presse Anglophone: Veille-Presse/Veille-Presse-Anglophone.md
+   - Veille Presse Hispanophone: Veille-Presse/Veille-Presse-Hispanophone.md
+   - Veille Presse Germanophone: Veille-Presse/Veille-Presse-Germanophone.md
+   - Veille Presse Francophone: Veille-Presse/Veille-Presse-Francophone.md
+  - Plus:
+   - Journée événementielle: Plus/Journee-evenementielle.md
+   - Journée 2021-2022: Plus/Journee-2021-2022.md
+   - Journée 2022-2023: Plus/Journee-2022-2023.md
+   - Enquêtes et sondages: Plus/Enquetes-et-sondages.md
+   - Infographie Francophone: Plus/Infographie-Francophone.md
+   - Infographie Anglophone: Plus/Infographie-Anglophone.md
