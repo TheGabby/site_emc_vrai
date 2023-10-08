@@ -112,7 +112,7 @@ extra_javascript:
 
   # Page tree
 nav:
-  - A propos: index.md
+  - Home: home.md
   - Articles: 
     - Les origines de la démocracies : Articles/1-Les-origines-de-la-democracie.md
     - La souveraineté du peuple: Articles/2-La-souverainete-du-peuple.md
